@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 <a href="tel:090-5384-1167">090-5384-1167<a>
 
 <a href="mailto:kitani1207@outlook.jp">メールを開く</a>
+<?php inlude("./smartcounter/counter.php");?>
