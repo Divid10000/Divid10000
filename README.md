@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="mailto:kitani1207@outlook.jp">メールを開く</a>
 <?php inlude("./smartcounter/counter.php");?>
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Divid10000}/count.svg)
